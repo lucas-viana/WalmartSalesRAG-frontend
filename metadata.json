@@ -1,0 +1,6 @@
+{
+  "name": "Walmart Sales RAG Assistant",
+  "description": "Interface moderna de RAG Assistant para análise preditiva e insights de vendas do Walmart integrada com API Flask.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
